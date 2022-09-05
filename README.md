@@ -16,9 +16,9 @@ ___
 ### About Me:
 <p align="center">
   
-* **Hello I am Sync . . .**
+* **Hello I am Sync.**
 
-* **I like to code Python . . . I have been coding for 5months . . .**
+* **I like to code Python, I have been coding for 5months.**
 
 * **Latest Project : [Zero-Five (V1.0.0)](https://github.com/asynncc/Zero-Five)**
 </p>
